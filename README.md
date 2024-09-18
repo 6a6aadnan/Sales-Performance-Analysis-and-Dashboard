@@ -29,7 +29,7 @@ The **Sales Performance Analysis and Dashboard** project utilizes Python to clea
 
 2. Install the required Python libraries:
    ```bash
-   pip install
+   pip install numpy pandas matplotlib seaborn sqlite3
 3. To view the dashboard, you will need to have Power BI installed.
 
 ## Usage
