@@ -1,6 +1,6 @@
 # Sales Performance Analysis and Dashboard
 
-This project provides a comprehensive analysis of sales data, leveraging Python for data cleaning and analysis, and Power BI for data visualization. The goal is to provide insights into sales performance, enabling better business decisions.
+This project provides a comprehensive analysis of sales data, leveraging Python for data cleaning, analysis, and Power BI for data visualization. The goal is to provide insights into sales performance, enabling better business decisions.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -9,12 +9,10 @@ This project provides a comprehensive analysis of sales data, leveraging Python 
 - [Usage](#usage)
 - [Data Description](#data-description)
 - [Power BI Dashboard](#power-bi-dashboard)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
-The **Sales Performance Analysis and Dashboard** project utilizes Python to clean and analyze sales data, and Power BI to create a dashboard that visually represents key sales metrics. It covers data for specific brands in Q3, providing insights such as revenue trends, sales growth, and brand performance.
+The **Sales Performance Analysis and Dashboard** project utilizes Python to clean and analyze sales data, and Power BI to create a dashboard that visually represents key sales metrics. It covers data for generic clothing brand in Q3, providing insights such as sales and profit growth and performance.
 
 ## Files in the Repository
 
@@ -46,15 +44,14 @@ The **Sales Performance Analysis and Dashboard** project utilizes Python to clea
 
 ## Data Description
 
-- **brand_Q3_sales.xlsx**: Contains sales data for Q3, including metrics such as revenue, sales volume, and brand information.
-- **cleaned_sales_data.csv**: The cleaned version of the raw data, used for analysis in Python and Power BI.
+- **brand_Q3_sales.xlsx**: Contains sales data for Q3, including metrics such as sales volume, profit volume and product information.
+- **cleaned_sales_data.csv**: The cleaned version of the raw data, used in Power BI.
 
 ## Power BI Dashboard
 
 The Power BI dashboard highlights key metrics such as:
 
-- Total sales revenue.
-- Sales growth over time.
-- Performance by brand.
-- Regional sales distribution.
-
+- Total sales in Q3.
+- Total profit in Q3.
+- Product sales in Q3.
+- Product profit in Q3.
