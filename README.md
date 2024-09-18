@@ -28,3 +28,33 @@ The **Sales Performance Analysis and Dashboard** project utilizes Python to clea
 1. Clone the repository:
    ```bash
    git clone https://github.com/6a6aadnan/Sales-Performance-Analysis-and-Dashboard.git
+
+2. Install the required Python libraries:
+   ```bash
+   pip install
+3. To view the dashboard, you will need to have Power BI installed.
+
+## Usage
+
+1. **Running the Jupyter Notebook**:
+   - Open the `Performance-Analysis.ipynb` notebook using JupyterLab or Jupyter Notebook.
+   - Run the analysis cells to perform data cleaning and view analytical insights.
+
+2. **Viewing the Power BI Dashboard**:
+   - Open the `Sales-Dashboard.pbix` file in Power BI Desktop.
+   - The dashboard provides visual insights into various sales metrics.
+
+## Data Description
+
+- **brand_Q3_sales.xlsx**: Contains sales data for Q3, including metrics such as revenue, sales volume, and brand information.
+- **cleaned_sales_data.csv**: The cleaned version of the raw data, used for analysis in Python and Power BI.
+
+## Power BI Dashboard
+
+The Power BI dashboard highlights key metrics such as:
+
+- Total sales revenue.
+- Sales growth over time.
+- Performance by brand.
+- Regional sales distribution.
+
