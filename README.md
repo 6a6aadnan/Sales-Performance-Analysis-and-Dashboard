@@ -56,5 +56,5 @@ The Power BI dashboard highlights key metrics such as:
 - Product sales in Q3.
 - Product profit in Q3.
 
-  ![Alt text](dashboard.jpg)
+  ![Alt text](Dashboard.jpg)
 
